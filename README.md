@@ -3,6 +3,9 @@ Trivia API is a RESTFUL API application that allow users to display questions - 
 and play the quiz game, randomizing either all questions or within a specific category.
 I built the backend code the frontend is already exist.
 
+Home Page
+![](app-screenshot.png)
+
 All backend code follows [PEP8 style guidelines](https://www.python.org/dev/peps/pep-0008/)
 
 ## Getting started
